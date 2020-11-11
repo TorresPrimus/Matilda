@@ -1,0 +1,16 @@
+table {
+	font-family : Helvetica;
+	font-size : 100%;
+  font-weight: bold;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+ h1 {
+   columns: #000000;;
+   font-family: Arial;
+ }
+ body {
+    background-color: lightblue;
+  }

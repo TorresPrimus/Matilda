@@ -1,0 +1,7 @@
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\bin\Debug\05-Strings.exe.config
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\bin\Debug\05-Strings.exe
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\bin\Debug\05-Strings.pdb
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\obj\Debug\05-Strings.csprojAssemblyReference.cache
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\obj\Debug\05-Strings.csproj.CoreCompileInputs.cache
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\obj\Debug\05-Strings.exe
+C:\Users\Reviv\OneDrive\Desktop\Eleven Fifty Academy\DotNetProjects\CSharpPreWork\CSharpPrework\05-Strings\obj\Debug\05-Strings.pdb
