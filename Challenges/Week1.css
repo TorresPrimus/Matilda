@@ -1,5 +1,0 @@
-const string world = "Hello World!";
- for ( int i = 0; i < world.Length; i++)
-    {
-        Console.WriteLine(world[i]);
-    }
